@@ -1,3 +1,5 @@
+To set up on heroku: 
+
 You can sign-up for a heroku account at: https://www.heroku.com/
 
 Preparation for production deployment:
@@ -58,5 +60,4 @@ heroku rename newnameofyourapp
 replace newnameofyourapp above with the name you'd like to give your app
 
 Your app will then be accessible from the following browser URL ->
-
 https://newnameofyourapp.herokuapp.com
