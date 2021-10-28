@@ -8,7 +8,8 @@ dial_book = {
   "paloalto" => "650",
   "evanston" => "847",
   "orlando" => "407",
-  "lancaster" => "717"
+  "lancaster" => "717",
+  "houston" => "713"
 }
  
 # Get city names from the hash
@@ -40,5 +41,4 @@ loop do
   if done == "exit"
     break
   end
-
 end
