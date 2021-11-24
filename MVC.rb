@@ -1,3 +1,4 @@
+
 Model, View, Controller and Rails App Structure - Text references
 MVC - Model, View, Controller
 
